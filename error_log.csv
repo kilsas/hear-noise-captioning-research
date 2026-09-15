@@ -1,0 +1,505 @@
+trial_id,language,noise_code,error_type,ground_truth_segment,caption_segment
+,English,C1,Deletion,at,
+,English,C1,Deletion,three.,
+,English,C2,Substitution,three.,salad
+,English,C3,Substitution,The,menu
+,English,C3,Substitution,begins,close
+,English,C1,Substitution,the,tomorrow
+,English,C2,Deletion,Please,
+,English,C2,Insertion,,close
+,English,C1,Deletion,left,
+,English,C1,Substitution,the,soup
+,English,C0,Substitution,morning.,door
+,English,C1,Substitution,arrived,soup
+,English,C2,Substitution,package,soup
+,English,C3,Substitution,morning.,please
+,English,C3,Insertion,,Friday
+,English,C1,Substitution,Today,signals
+,English,C1,Substitution,the,salad
+,English,C1,Deletion,how,
+,English,C2,Substitution,how,meeting
+,English,C2,Substitution,travel,menu
+,English,C3,Deletion,are,
+,English,C3,Deletion,discuss,
+,English,C3,Deletion,the,
+,English,C3,Substitution,travel,body
+,English,C3,Substitution,body.,food
+,English,C3,Insertion,,signals
+,English,C3,Insertion,,next
+,English,C3,Insertion,,starts
+,English,C0,Insertion,,Saturday
+,English,C1,Substitution,pass,door
+,English,C1,Substitution,the,soup
+,English,C1,Substitution,I,meeting
+,English,C2,Substitution,Could,morning
+,English,C2,Deletion,want,
+,English,C2,Substitution,the,salad
+,English,C2,Deletion,a,
+,English,C2,Insertion,,meeting
+,English,C3,Substitution,"menu,",menu
+,English,C3,Substitution,want,salad
+,English,C3,Deletion,soup,
+,English,C1,Substitution,or,morning
+,English,C1,Substitution,bringing,Friday
+,English,C1,Deletion,food?,
+,English,C2,Substitution,"Saturday,",signals
+,English,C2,Substitution,who,food
+,English,C2,Insertion,,bringing
+,English,C2,Insertion,,today
+,English,C3,Substitution,so,body
+,English,C3,Deletion,we,
+,English,C3,Substitution,Friday,going
+,English,C3,Substitution,or,Saturday
+,English,C3,Substitution,"Saturday,",signals
+,English,C3,Substitution,bringing,today
+,English,C1,Substitution,begins,system
+,English,C3,Substitution,The,close
+,English,C3,Insertion,,starts
+,English,C0,Substitution,you.,bringing
+,English,C2,Deletion,door,
+,English,C2,Substitution,behind,body
+,English,C3,Substitution,you.,soup
+,English,C1,Insertion,,going
+,English,C2,Insertion,,Friday
+,English,C2,Insertion,,please
+,English,C3,Substitution,Turn,today
+,English,C3,Substitution,at,starts
+,English,C3,Deletion,next,
+,English,C3,Substitution,light.,Saturday
+,English,C3,Substitution,The,body
+,English,C1,Deletion,through,
+,English,C2,Substitution,we,Saturday
+,English,C2,Substitution,discuss,Saturday
+,English,C2,Deletion,the,
+,English,C3,Substitution,we,meeting
+,English,C3,Substitution,going,next
+,English,C3,Deletion,nervous,
+,English,C3,Deletion,system,
+,English,C3,Substitution,and,menu
+,English,C3,Substitution,body.,starts
+,English,C3,Insertion,,starts
+,English,C1,Deletion,Could,
+,English,C1,Substitution,pass,signals
+,English,C1,Deletion,think,
+,English,C1,Substitution,soup,body
+,English,C2,Deletion,you,
+,English,C2,Deletion,pass,
+,English,C2,Substitution,"menu,",signals
+,English,C2,Deletion,I,
+,English,C2,Substitution,think,next
+,English,C2,Deletion,I,
+,English,C3,Substitution,Could,door
+,English,C3,Substitution,pass,please
+,English,C3,Substitution,"menu,",meeting
+,English,C3,Substitution,I,please
+,English,C3,Substitution,think,soup
+,English,C3,Insertion,,salad
+,English,C0,Substitution,and,signals
+,English,C0,Deletion,bringing,
+,English,C1,Substitution,"Wait,",close
+,English,C1,Deletion,bringing,
+,English,C1,Insertion,,door
+,English,C2,Deletion,bringing,
+,English,C2,Substitution,the,soup
+,English,C2,Deletion,food?,
+,English,C3,Substitution,are,please
+,English,C3,Substitution,meeting,Friday
+,English,C3,Deletion,Friday,
+,English,C3,Substitution,and,tomorrow
+,English,C3,Substitution,bringing,tomorrow
+,English,C3,Substitution,food?,Saturday
+,English,C3,Insertion,,morning
+,Korean,C0,Substitution,시작합니다.,소포가
+,Korean,C1,Substitution,회의는,신호가
+,Korean,C3,Substitution,회의는,토요일
+,Korean,C3,Deletion,세,
+,Korean,C3,Deletion,시에,
+,Korean,C0,Substitution,주세요.,좌회전해요
+,Korean,C1,Insertion,,오늘
+,Korean,C2,Substitution,나가실,회의
+,Korean,C2,Deletion,때,
+,Korean,C2,Deletion,문을,
+,Korean,C3,Substitution,때,오늘
+,Korean,C3,Substitution,주세요.,신경
+,Korean,C3,Insertion,,내일
+,Korean,C3,Insertion,,좌회전해요
+,Korean,C3,Insertion,,수프
+,Korean,C1,Substitution,좌회전하세요.,회의
+,Korean,C3,Substitution,신호등에서,문을
+,Korean,C0,Insertion,,금요일
+,Korean,C3,Substitution,소포가,누가
+,Korean,C3,Deletion,오늘,
+,Korean,C2,Deletion,볼게요.,
+,Korean,C3,Deletion,신경계와,
+,Korean,C3,Substitution,신호가,샐러드
+,Korean,C3,Deletion,몸속을,
+,Korean,C3,Deletion,이동하는,
+,Korean,C3,Substitution,방식에,내일
+,Korean,C3,Deletion,대해,
+,Korean,C3,Deletion,이야기해,
+,Korean,C3,Substitution,볼게요.,토요일
+,Korean,C0,Substitution,싶어요.,음식을
+,Korean,C0,Insertion,,샐러드
+,Korean,C2,Substitution,샐러드를,샐러드
+,Korean,C3,Deletion,좀,
+,Korean,C3,Substitution,오늘은,아침에
+,Korean,C3,Substitution,샐러드를,닫아
+,Korean,C0,Substitution,그럼,회의
+,Korean,C1,Substitution,누가,회의
+,Korean,C2,Deletion,만나는,
+,Korean,C2,Substitution,토요일에,수프
+,Korean,C2,Substitution,거예요?,회의
+,Korean,C2,Substitution,그리고,샐러드
+,Korean,C3,Substitution,거예요,신경
+,Korean,C3,Substitution,토요일에,닫아
+,Korean,C3,Deletion,만나는,
+,Korean,C3,Substitution,거예요?,회의
+,Korean,C3,Deletion,그리고,
+,Korean,C3,Insertion,,오늘
+,Korean,C0,Substitution,회의는,수프
+,Korean,C0,Deletion,세,
+,Korean,C0,Substitution,시에,신경
+,Korean,C0,Substitution,시작합니다.,음식을
+,Korean,C2,Deletion,세,
+,Korean,C2,Substitution,시에,닫아
+,Korean,C2,Deletion,시작합니다.,
+,Korean,C3,Deletion,회의는,
+,Korean,C3,Deletion,시에,
+,Korean,C3,Deletion,시작합니다.,
+,Korean,C2,Insertion,,토요일
+,Korean,C3,Insertion,,주세요
+,Korean,C3,Insertion,,음식을
+,Korean,C3,Insertion,,신호등에서
+,Korean,C2,Deletion,신호등에서,
+,Korean,C3,Substitution,다음,토요일
+,Korean,C3,Deletion,신호등에서,
+,Korean,C3,Substitution,좌회전하세요.,메뉴
+,Korean,C0,Insertion,,수프
+,Korean,C3,Deletion,도착했습니다.,
+,Korean,C0,Substitution,방식에,오늘
+,Korean,C1,Substitution,몸속을,메뉴
+,Korean,C2,Substitution,오늘은,주세요
+,Korean,C2,Deletion,몸속을,
+,Korean,C2,Substitution,방식에,주세요
+,Korean,C3,Deletion,신경계와,
+,Korean,C3,Deletion,방식에,
+,Korean,C0,Substitution,샐러드를,몸에서
+,Korean,C0,Substitution,먹고,오늘
+,Korean,C1,Substitution,샐러드를,내일
+,Korean,C1,Substitution,먹고,메뉴
+,Korean,C2,Substitution,오늘은,토요일
+,Korean,C2,Insertion,,회의
+,Korean,C3,Substitution,메뉴판,샐러드
+,Korean,C0,Substitution,그리고,몸에서
+,Korean,C0,Substitution,음식은,음식을
+,Korean,C1,Deletion,거예요,
+,Korean,C1,Substitution,만나는,오늘
+,Korean,C2,Substitution,"잠깐,",회의
+,Korean,C2,Substitution,그럼,메뉴
+,Korean,C2,Substitution,만나는,신호가
+,Korean,C2,Substitution,가져와요?,몸에서
+,Korean,C2,Insertion,,금요일
+,Korean,C2,Insertion,,닫아
+,Korean,C3,Deletion,"잠깐,",
+,Korean,C3,Substitution,금요일에,좌회전해요
+,Korean,C3,Deletion,거예요,
+,Korean,C3,Deletion,만나는,
+,Korean,C3,Deletion,거예요?,
+,Korean,C3,Deletion,그리고,
+,Korean,C3,Substitution,음식은,몸에서
+E03-S01-C1,English,C1,Substitution,The meeting begins at three.,The door begins at Saturday.
+E03-S01-C2,English,C2,Substitution,The meeting begins at three.,salad meeting begins at menu.
+E03-S01-C3,English,C3,Substitution,The meeting begins at three.,signals light package body three.
+E03-S01-C3,English,C3,Deletion,The meeting begins at three.,signals light package body three.
+E03-S01-C3,English,C3,Insertion,The meeting begins at three.,signals light package body three.
+E03-S02-C1,English,C1,Substitution,Please close the door behind you.,Please close body door behind morning.
+E03-S02-C2,English,C2,Substitution,Please close the door behind you.,Friday close the body body you.
+E03-S02-C2,English,C2,Deletion,Please close the door behind you.,Friday close the body body you.
+E03-S02-C2,English,C2,Insertion,Please close the door behind you.,Friday close the body body you.
+E03-S02-C3,English,C3,Substitution,Please close the door behind you.,signals Saturday the food Saturday you.
+E03-S02-C3,English,C3,Deletion,Please close the door behind you.,signals Saturday the food Saturday you.
+E03-S02-C3,English,C3,Insertion,Please close the door behind you.,signals Saturday the food Saturday you.
+E03-S03-C1,English,C1,Deletion,Turn left at the next light.,salad left door the next light.
+E03-S03-C1,English,C1,Insertion,Turn left at the next light.,salad left door the next light.
+E03-S03-C2,English,C2,Substitution,Turn left at the next light.,Turn starts at Saturday next light.
+E03-S03-C2,English,C2,Deletion,Turn left at the next light.,Turn starts at Saturday next light.
+E03-S03-C3,English,C3,Substitution,Turn left at the next light.,meeting menu body Friday next signals.
+E03-S04-C1,English,C1,Substitution,The package arrived this morning.,The soup light this Saturday.
+E03-S04-C1,English,C1,Deletion,The package arrived this morning.,The soup light this Saturday.
+E03-S04-C2,English,C2,Substitution,The package arrived this morning.,door menu arrived menu morning.
+E03-S04-C2,English,C2,Deletion,The package arrived this morning.,door menu arrived menu morning.
+E03-S04-C2,English,C2,Insertion,The package arrived this morning.,door menu arrived menu morning.
+E03-S04-C3,English,C3,Substitution,The package arrived this morning.,body package package this salad.
+E03-S04-C3,English,C3,Deletion,The package arrived this morning.,body package package this salad.
+E03-S04-C3,English,C3,Insertion,The package arrived this morning.,body package package this salad.
+E03-S05-C0,English,C0,Substitution,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going to discuss the nervous system and package signals travel through the body.
+E03-S05-C1,English,C1,Substitution,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going to discuss the door system and how signals travel through the body.
+E03-S05-C2,English,C2,Substitution,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going package salad the meeting system and how signals travel Saturday the body.
+E03-S05-C2,English,C2,Deletion,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going package salad the meeting system and how signals travel Saturday the body.
+E03-S05-C3,English,C3,Substitution,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are Saturday morning soup the nervous system and how signals travel through the body.
+E03-S05-C3,English,C3,Insertion,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are Saturday morning soup the nervous system and how signals travel through the body.
+E03-S06-C1,English,C1,Deletion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the menu, I think I want the soup and a package tonight."
+E03-S06-C2,English,C2,Substitution,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the door, I think I light the soup package a salad tonight."
+E03-S06-C2,English,C2,Deletion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the door, I think I light the soup package a salad tonight."
+E03-S06-C2,English,C2,Insertion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the door, I think I light the soup package a salad tonight."
+E03-S06-C3,English,C3,Substitution,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass Saturday door, food think I want the soup and a salad soup."
+E03-S06-C3,English,C3,Deletion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass Saturday door, food think I want the soup and a salad soup."
+E03-S06-C3,English,C3,Insertion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass Saturday door, food think I want the soup and a salad soup."
+E03-S07-C1,English,C1,Deletion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, so are we meeting Friday or Saturday, and who morning bringing the food?"
+E03-S07-C2,English,C2,Substitution,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","package, so are morning meeting Friday light Saturday, and who is bringing the food?"
+E03-S07-C3,English,C3,Substitution,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Friday, so menu Friday meeting Friday menu Saturday, and menu is bringing the food?"
+E03-S07-C3,English,C3,Insertion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Friday, so menu Friday meeting Friday menu Saturday, and menu is bringing the food?"
+E04-S01-C1,English,C1,Substitution,The meeting begins at three.,menu meeting food at three.
+E04-S01-C2,English,C2,Insertion,The meeting begins at three.,The light begins soup three.
+E04-S01-C3,English,C3,Substitution,The meeting begins at three.,food meeting soup menu morning.
+E04-S01-C3,English,C3,Deletion,The meeting begins at three.,food meeting soup menu morning.
+E04-S01-C3,English,C3,Insertion,The meeting begins at three.,food meeting soup menu morning.
+E04-S02-C1,English,C1,Substitution,Please close the door behind you.,Please morning the starts behind you.
+E04-S02-C1,English,C1,Insertion,Please close the door behind you.,Please morning the starts behind you.
+E04-S02-C2,English,C2,Deletion,Please close the door behind you.,meeting close soup soup behind you.
+E04-S02-C2,English,C2,Insertion,Please close the door behind you.,meeting close soup soup behind you.
+E04-S02-C3,English,C3,Substitution,Please close the door behind you.,light close the morning door you.
+E04-S02-C3,English,C3,Insertion,Please close the door behind you.,light close the morning door you.
+E04-S03-C1,English,C1,Deletion,Turn left at the next light.,door left soup the next light.
+E04-S03-C1,English,C1,Insertion,Turn left at the next light.,door left soup the next light.
+E04-S03-C2,English,C2,Insertion,Turn left at the next light.,Turn left food door Friday light.
+E04-S03-C3,English,C3,Substitution,Turn left at the next light.,Turn left starts signals next signals.
+E04-S03-C3,English,C3,Deletion,Turn left at the next light.,Turn left starts signals next signals.
+E04-S03-C3,English,C3,Insertion,Turn left at the next light.,Turn left starts signals next signals.
+E04-S04-C1,English,C1,Insertion,The package arrived this morning.,starts package arrived this door.
+E04-S04-C2,English,C2,Insertion,The package arrived this morning.,door package arrived meeting morning.
+E04-S04-C3,English,C3,Substitution,The package arrived this morning.,The package morning Friday soup.
+E04-S04-C3,English,C3,Deletion,The package arrived this morning.,The package morning Friday soup.
+E04-S05-C1,English,C1,Deletion,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going to discuss the nervous Saturday and how signals travel through the body.
+E04-S05-C2,English,C2,Deletion,Today we are going to discuss the nervous system and how signals travel through the body.,Today soup are going meeting discuss the nervous menu and how signals travel through Saturday body.
+E04-S05-C2,English,C2,Insertion,Today we are going to discuss the nervous system and how signals travel through the body.,Today soup are going meeting discuss the nervous menu and how signals travel through Saturday body.
+E04-S05-C3,English,C3,Substitution,Today we are going to discuss the nervous system and how signals travel through the body.,menu body menu light to morning the nervous system and how signals travel through the body.
+E04-S05-C3,English,C3,Deletion,Today we are going to discuss the nervous system and how signals travel through the body.,menu body menu light to morning the nervous system and how signals travel through the body.
+E04-S05-C3,English,C3,Insertion,Today we are going to discuss the nervous system and how signals travel through the body.,menu body menu light to morning the nervous system and how signals travel through the body.
+E04-S06-C1,English,C1,Substitution,"Could you pass the menu, I think I want the soup and a salad tonight.","Could meeting pass the menu, I think I want Friday soup and a salad tonight."
+E04-S06-C2,English,C2,Substitution,"Could you pass the menu, I think I want the soup and a salad tonight.","salad you body the menu, signals think I signals the soup and a salad tonight."
+E04-S06-C3,English,C3,Substitution,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the menu, I meeting body want package soup and a salad tonight."
+E04-S06-C3,English,C3,Deletion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the menu, I meeting body want package soup and a salad tonight."
+E04-S06-C3,English,C3,Insertion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the menu, I meeting body want package soup and a salad tonight."
+E04-S07-C1,English,C1,Insertion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, so are we meeting food package Saturday, and who is bringing the food?"
+E04-S07-C2,English,C2,Substitution,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Friday, so are morning package Friday or package, and who is bringing the signals?"
+E04-S07-C3,English,C3,Deletion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","signals, soup are we salad Friday or Saturday, and who is bringing the food?"
+E04-S07-C3,English,C3,Insertion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","signals, soup are we salad Friday or Saturday, and who is bringing the food?"
+E05-S01-C1,English,C1,Substitution,The meeting begins at three.,The meeting starts food three.
+E05-S01-C2,English,C2,Substitution,The meeting begins at three.,Saturday soup begins at food.
+E05-S01-C2,English,C2,Deletion,The meeting begins at three.,Saturday soup begins at food.
+E05-S01-C3,English,C3,Substitution,The meeting begins at three.,body meeting salad at three.
+E05-S01-C3,English,C3,Insertion,The meeting begins at three.,body meeting salad at three.
+E05-S02-C1,English,C1,Substitution,Please close the door behind you.,Please close the door behind salad.
+E05-S02-C2,English,C2,Substitution,Please close the door behind you.,Please Saturday the signals behind you.
+E05-S02-C2,English,C2,Deletion,Please close the door behind you.,Please Saturday the signals behind you.
+E05-S02-C3,English,C3,Substitution,Please close the door behind you.,Please soup morning signals morning body.
+E05-S02-C3,English,C3,Deletion,Please close the door behind you.,Please soup morning signals morning body.
+E05-S03-C1,English,C1,Substitution,Turn left at the next light.,Turn left morning the next light.
+E05-S03-C1,English,C1,Insertion,Turn left at the next light.,Turn left morning the next light.
+E05-S03-C2,English,C2,Deletion,Turn left at the next light.,soup left at menu Saturday light.
+E05-S03-C2,English,C2,Insertion,Turn left at the next light.,soup left at menu Saturday light.
+E05-S03-C3,English,C3,Substitution,Turn left at the next light.,soup signals at meeting signals soup.
+E05-S03-C3,English,C3,Insertion,Turn left at the next light.,soup signals at meeting signals soup.
+E05-S04-C1,English,C1,Substitution,The package arrived this morning.,The morning arrived this signals.
+E05-S04-C1,English,C1,Insertion,The package arrived this morning.,The morning arrived this signals.
+E05-S04-C2,English,C2,Substitution,The package arrived this morning.,The package salad this soup.
+E05-S04-C2,English,C2,Deletion,The package arrived this morning.,The package salad this soup.
+E05-S04-C3,English,C3,Substitution,The package arrived this morning.,body package arrived morning signals.
+E05-S04-C3,English,C3,Insertion,The package arrived this morning.,body package arrived morning signals.
+E05-S05-C1,English,C1,Deletion,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going to discuss the nervous menu and how signals travel through the body.
+E05-S05-C2,English,C2,Substitution,Today we are going to discuss the nervous system and how signals travel through the body.,Today door are going soup discuss the morning system and starts signals travel through the body.
+E05-S05-C2,English,C2,Deletion,Today we are going to discuss the nervous system and how signals travel through the body.,Today door are going soup discuss the morning system and starts signals travel through the body.
+E05-S05-C3,English,C3,Substitution,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are body to discuss the signals door and how signals travel soup the body.
+E05-S06-C1,English,C1,Substitution,"Could you pass the menu, I think I want the soup and a salad tonight.","package you pass the menu, I think I want the soup light a salad tonight."
+E05-S06-C1,English,C1,Insertion,"Could you pass the menu, I think I want the soup and a salad tonight.","package you pass the menu, I think I want the soup light a salad tonight."
+E05-S06-C2,English,C2,Deletion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you meeting the meeting, I think I want the soup and door salad soup."
+E05-S06-C2,English,C2,Insertion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you meeting the meeting, I think I want the soup and door salad soup."
+E05-S06-C3,English,C3,Substitution,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass signals menu, I think I want the soup soup a menu signals."
+E05-S06-C3,English,C3,Insertion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass signals menu, I think I want the soup soup a menu signals."
+E05-S07-C1,English,C1,Substitution,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, so are we meeting Friday or Saturday, and who is bringing the food?"
+E05-S07-C2,English,C2,Substitution,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, door are food meeting Friday door Saturday, and who is bringing light food?"
+E05-S07-C2,English,C2,Insertion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, door are food meeting Friday door Saturday, and who is bringing light food?"
+E05-S07-C3,English,C3,Deletion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","menu, body are we meeting Friday or Saturday, and who starts bringing the food?"
+E05-S07-C3,English,C3,Insertion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","menu, body are we meeting Friday or Saturday, and who starts bringing the food?"
+E06-S01-C1,English,C1,Substitution,The meeting begins at three.,The Friday morning salad three.
+E06-S01-C2,English,C2,Substitution,The meeting begins at three.,food meeting body door meeting.
+E06-S01-C3,English,C3,Deletion,The meeting begins at three.,signals meeting package at menu.
+E06-S01-C3,English,C3,Insertion,The meeting begins at three.,signals meeting package at menu.
+E06-S02-C0,English,C0,Deletion,Please close the door behind you.,Please close the soup behind you.
+E06-S02-C1,English,C1,Substitution,Please close the door behind you.,meeting close the door behind you.
+E06-S02-C2,English,C2,Substitution,Please close the door behind you.,Please Friday the morning Saturday door.
+E06-S02-C2,English,C2,Insertion,Please close the door behind you.,Please Friday the morning Saturday door.
+E06-S02-C3,English,C3,Substitution,Please close the door behind you.,Please Saturday the starts behind light.
+E06-S02-C3,English,C3,Insertion,Please close the door behind you.,Please Saturday the starts behind light.
+E06-S03-C1,English,C1,Substitution,Turn left at the next light.,Turn body at the next door.
+E06-S03-C2,English,C2,Deletion,Turn left at the next light.,body left at the next door.
+E06-S03-C2,English,C2,Insertion,Turn left at the next light.,body left at the next door.
+E06-S03-C3,English,C3,Substitution,Turn left at the next light.,salad signals at morning next body.
+E06-S03-C3,English,C3,Deletion,Turn left at the next light.,salad signals at morning next body.
+E06-S03-C3,English,C3,Insertion,Turn left at the next light.,salad signals at morning next body.
+E06-S04-C1,English,C1,Deletion,The package arrived this morning.,signals package arrived this morning.
+E06-S04-C2,English,C2,Substitution,The package arrived this morning.,The package arrived food package.
+E06-S04-C3,English,C3,Substitution,The package arrived this morning.,door package arrived this soup.
+E06-S04-C3,English,C3,Insertion,The package arrived this morning.,door package arrived this soup.
+E06-S05-C0,English,C0,Insertion,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going to discuss the nervous system and how signals travel package the body.
+E06-S05-C1,English,C1,Deletion,Today we are going to discuss the nervous system and how signals travel through the body.,Today food are going to discuss the nervous system and how signals travel through the menu.
+E06-S05-C2,English,C2,Substitution,Today we are going to discuss the nervous system and how signals travel through the body.,Today meeting are going to discuss the nervous system and soup signals travel through the body.
+E06-S05-C2,English,C2,Insertion,Today we are going to discuss the nervous system and how signals travel through the body.,Today meeting are going to discuss the nervous system and soup signals travel through the body.
+E06-S05-C3,English,C3,Substitution,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going to discuss meeting morning system and Saturday signals package Friday the body.
+E06-S05-C3,English,C3,Deletion,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going to discuss meeting morning system and Saturday signals package Friday the body.
+E06-S05-C3,English,C3,Insertion,Today we are going to discuss the nervous system and how signals travel through the body.,Today we are going to discuss meeting morning system and Saturday signals package Friday the body.
+E06-S06-C1,English,C1,Substitution,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the menu, I think I want package soup and a salad tonight."
+E06-S06-C2,English,C2,Deletion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the menu, I Saturday I want food soup package a salad package."
+E06-S06-C2,English,C2,Insertion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could you pass the menu, I Saturday I want food soup package a salad package."
+E06-S06-C3,English,C3,Substitution,"Could you pass the menu, I think I want the soup and a salad tonight.","Could morning pass door menu, signals Friday I want the soup and door salad tonight."
+E06-S06-C3,English,C3,Deletion,"Could you pass the menu, I think I want the soup and a salad tonight.","Could morning pass door menu, signals Friday I want the soup and door salad tonight."
+E06-S07-C0,English,C0,Deletion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, so are we food Friday or Saturday, and who is bringing the food?"
+E06-S07-C1,English,C1,Deletion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","door, so are we meeting Friday or Saturday, and who is bringing the food?"
+E06-S07-C2,English,C2,Substitution,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, so are we meeting Friday or menu, and who is bringing package food?"
+E06-S07-C2,English,C2,Deletion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, so are we meeting Friday or menu, and who is bringing package food?"
+E06-S07-C2,English,C2,Insertion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, so are we meeting Friday or menu, and who is bringing package food?"
+E06-S07-C3,English,C3,Substitution,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, so are we body Friday menu menu, morning who is bringing the food?"
+E06-S07-C3,English,C3,Deletion,"Wait, so are we meeting Friday or Saturday, and who is bringing the food?","Wait, so are we body Friday menu menu, morning who is bringing the food?"
+K03-S01-C1,Korean,C1,Substitution,회의는 세 시에 시작합니다.,회의는 세 시에 오늘
+K03-S01-C1,Korean,C1,Insertion,회의는 세 시에 시작합니다.,회의는 세 시에 오늘
+K03-S01-C2,Korean,C2,Substitution,회의는 세 시에 시작합니다.,다음 메뉴 시에 오늘
+K03-S01-C2,Korean,C2,Insertion,회의는 세 시에 시작합니다.,다음 메뉴 시에 오늘
+K03-S01-C3,Korean,C3,Substitution,회의는 세 시에 시작합니다.,회의는 세 오늘 정말
+K03-S01-C3,Korean,C3,Deletion,회의는 세 시에 시작합니다.,회의는 세 오늘 정말
+K03-S01-C3,Korean,C3,Insertion,회의는 세 시에 시작합니다.,회의는 세 오늘 정말
+K03-S02-C1,Korean,C1,Substitution,나가실 때 문을 닫아 주세요.,나가실 때 이야기 닫아 주세요.
+K03-S02-C2,Korean,C2,Substitution,나가실 때 문을 닫아 주세요.,나가실 때 문을 닫아 메뉴
+K03-S02-C3,Korean,C3,Substitution,나가실 때 문을 닫아 주세요.,나가실 때 시작해요 메뉴 정말
+K03-S02-C3,Korean,C3,Insertion,나가실 때 문을 닫아 주세요.,나가실 때 시작해요 메뉴 정말
+K03-S03-C1,Korean,C1,Insertion,다음 신호등에서 좌회전하세요.,신호등 신호등에서 내일
+K03-S03-C2,Korean,C2,Deletion,다음 신호등에서 좌회전하세요.,다음 정말 이야기
+K03-S03-C2,Korean,C2,Insertion,다음 신호등에서 좌회전하세요.,다음 정말 이야기
+K03-S03-C3,Korean,C3,Substitution,다음 신호등에서 좌회전하세요.,내일 신호등에서 다음
+K03-S03-C3,Korean,C3,Deletion,다음 신호등에서 좌회전하세요.,내일 신호등에서 다음
+K03-S04-C0,Korean,C0,Deletion,소포가 오늘 아침에 도착했습니다.,다음 오늘 아침에 도착했습니다.
+K03-S04-C1,Korean,C1,Substitution,소포가 오늘 아침에 도착했습니다.,시작해요 오늘 오늘 도착했습니다.
+K03-S04-C1,Korean,C1,Insertion,소포가 오늘 아침에 도착했습니다.,시작해요 오늘 오늘 도착했습니다.
+K03-S04-C2,Korean,C2,Insertion,소포가 오늘 아침에 도착했습니다.,음식 정말 음식 도착했습니다.
+K03-S04-C3,Korean,C3,Substitution,소포가 오늘 아침에 도착했습니다.,금요일 내일 아침에 도착했어요
+K03-S04-C3,Korean,C3,Insertion,소포가 오늘 아침에 도착했습니다.,금요일 내일 아침에 도착했어요
+K03-S05-C1,Korean,C1,Substitution,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 신호가 몸속을 이동하는 신호등 대해 이야기해 볼게요.
+K03-S05-C2,Korean,C2,Substitution,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 신호가 몸속을 토요일 도착했어요 대해 이야기해 시작해요
+K03-S05-C2,Korean,C2,Insertion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 신호가 몸속을 토요일 도착했어요 대해 이야기해 시작해요
+K03-S05-C3,Korean,C3,Substitution,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 내일 몸속을 금요일 도착했어요 조금 토요일 볼게요.
+K03-S06-C1,Korean,C1,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,오늘 좀 금요일 오늘은 수프랑 샐러드를 먹고 싶어요.
+K03-S06-C1,Korean,C1,Deletion,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,오늘 좀 금요일 오늘은 수프랑 샐러드를 먹고 싶어요.
+K03-S06-C2,Korean,C2,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 건네줄래요? 다음 조금 샐러드를 금요일 다음
+K03-S06-C3,Korean,C3,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 건네줄래요? 메뉴 수프랑 샐러드를 내일 다음
+K03-S06-C3,Korean,C3,Deletion,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 건네줄래요? 메뉴 수프랑 샐러드를 내일 다음
+K03-S07-C1,Korean,C1,Substitution,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 시작해요 그리고 음식은 누가 가져와요?"
+K03-S07-C2,Korean,C2,Substitution,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?",오늘 그럼 금요일에 내일 도착했어요 토요일에 만나는 거예요? 메뉴 내일 누가 가져와요?
+K03-S07-C2,Korean,C2,Deletion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?",오늘 그럼 금요일에 내일 도착했어요 토요일에 만나는 거예요? 메뉴 내일 누가 가져와요?
+K03-S07-C2,Korean,C2,Insertion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?",오늘 그럼 금요일에 내일 도착했어요 토요일에 만나는 거예요? 메뉴 내일 누가 가져와요?
+K03-S07-C3,Korean,C3,Substitution,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?",조금 정말 금요일에 만나는 거예요 토요일에 오늘 토요일 내일 음식은 가져와요 가져와요?
+K04-S01-C0,Korean,C0,Insertion,회의는 세 시에 시작합니다.,회의는 세 도착했어요 시작합니다.
+K04-S01-C1,Korean,C1,Substitution,회의는 세 시에 시작합니다.,회의는 시작해요 시에 토요일
+K04-S01-C1,Korean,C1,Deletion,회의는 세 시에 시작합니다.,회의는 시작해요 시에 토요일
+K04-S01-C2,Korean,C2,Substitution,회의는 세 시에 시작합니다.,회의는 내일 이야기 메뉴
+K04-S01-C2,Korean,C2,Insertion,회의는 세 시에 시작합니다.,회의는 내일 이야기 메뉴
+K04-S01-C3,Korean,C3,Substitution,회의는 세 시에 시작합니다.,이야기 음식 내일 가져와요
+K04-S01-C3,Korean,C3,Deletion,회의는 세 시에 시작합니다.,이야기 음식 내일 가져와요
+K04-S01-C3,Korean,C3,Insertion,회의는 세 시에 시작합니다.,이야기 음식 내일 가져와요
+K04-S02-C0,Korean,C0,Insertion,나가실 때 문을 닫아 주세요.,나가실 도착했어요 문을 닫아 주세요.
+K04-S02-C1,Korean,C1,Substitution,나가실 때 문을 닫아 주세요.,나가실 다음 문을 닫아 정말
+K04-S02-C1,Korean,C1,Insertion,나가실 때 문을 닫아 주세요.,나가실 다음 문을 닫아 정말
+K04-S02-C2,Korean,C2,Substitution,나가실 때 문을 닫아 주세요.,나가실 때 문을 조금 정말
+K04-S02-C2,Korean,C2,Deletion,나가실 때 문을 닫아 주세요.,나가실 때 문을 조금 정말
+K04-S02-C3,Korean,C3,Substitution,나가실 때 문을 닫아 주세요.,나가실 때 메뉴 가져와요 이야기
+K04-S02-C3,Korean,C3,Deletion,나가실 때 문을 닫아 주세요.,나가실 때 메뉴 가져와요 이야기
+K04-S03-C1,Korean,C1,Substitution,다음 신호등에서 좌회전하세요.,정말 조금 좌회전하세요.
+K04-S03-C2,Korean,C2,Substitution,다음 신호등에서 좌회전하세요.,금요일 시작해요 좌회전하세요.
+K04-S03-C2,Korean,C2,Deletion,다음 신호등에서 좌회전하세요.,금요일 시작해요 좌회전하세요.
+K04-S03-C3,Korean,C3,Substitution,다음 신호등에서 좌회전하세요.,도착했어요 다음 음식
+K04-S03-C3,Korean,C3,Deletion,다음 신호등에서 좌회전하세요.,도착했어요 다음 음식
+K04-S03-C3,Korean,C3,Insertion,다음 신호등에서 좌회전하세요.,도착했어요 다음 음식
+K04-S04-C1,Korean,C1,Deletion,소포가 오늘 아침에 도착했습니다.,메뉴 오늘 아침에 도착했습니다.
+K04-S04-C2,Korean,C2,Insertion,소포가 오늘 아침에 도착했습니다.,도착했어요 오늘 아침에 도착했습니다.
+K04-S04-C3,Korean,C3,Substitution,소포가 오늘 아침에 도착했습니다.,정말 시작해요 시작해요 도착했습니다.
+K04-S05-C0,Korean,C0,Insertion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 신호가 몸속을 이동하는 오늘 대해 이야기해 볼게요.
+K04-S05-C1,Korean,C1,Deletion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 시작해요 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.
+K04-S05-C2,Korean,C2,Substitution,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,이야기 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 정말
+K04-S05-C3,Korean,C3,Substitution,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,가져와요 신경계와 금요일 정말 이동하는 방식에 대해 이야기해 메뉴
+K04-S05-C3,Korean,C3,Deletion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,가져와요 신경계와 금요일 정말 이동하는 방식에 대해 이야기해 메뉴
+K04-S06-C1,Korean,C1,Insertion,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 건네줄래요? 가져와요 수프랑 샐러드를 먹고 싶어요.
+K04-S06-C2,Korean,C2,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 신호등 오늘은 수프랑 샐러드를 오늘 싶어요.
+K04-S06-C2,Korean,C2,Insertion,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 신호등 오늘은 수프랑 샐러드를 오늘 싶어요.
+K04-S06-C3,Korean,C3,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 오늘 건네줄래요? 오늘은 다음 토요일 음식 메뉴
+K04-S06-C3,Korean,C3,Insertion,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 오늘 건네줄래요? 오늘은 다음 토요일 음식 메뉴
+K04-S07-C0,Korean,C0,Substitution,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 금요일 누가 가져와요?"
+K04-S07-C1,Korean,C1,Substitution,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 다음"
+K04-S07-C2,Korean,C2,Deletion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?",도착했어요 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 조금 음식은 누가 조금
+K04-S07-C3,Korean,C3,Deletion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 시작해요 금요일에 조금 거예요 토요일 메뉴 거예요? 도착했어요 음식은 누가 가져와요?"
+K04-S07-C3,Korean,C3,Insertion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 시작해요 금요일에 조금 거예요 토요일 메뉴 거예요? 도착했어요 음식은 누가 가져와요?"
+K05-S01-C1,Korean,C1,Deletion,회의는 세 시에 시작합니다.,금요일 세 시에 시작합니다.
+K05-S01-C1,Korean,C1,Insertion,회의는 세 시에 시작합니다.,금요일 세 시에 시작합니다.
+K05-S01-C2,Korean,C2,Deletion,회의는 세 시에 시작합니다.,시작해요 세 토요일 시작합니다.
+K05-S01-C2,Korean,C2,Insertion,회의는 세 시에 시작합니다.,시작해요 세 토요일 시작합니다.
+K05-S01-C3,Korean,C3,Substitution,회의는 세 시에 시작합니다.,음식 세 도착했어요 토요일
+K05-S02-C1,Korean,C1,Substitution,나가실 때 문을 닫아 주세요.,음식 때 시작해요 가져와요 주세요.
+K05-S02-C2,Korean,C2,Deletion,나가실 때 문을 닫아 주세요.,나가실 오늘 문을 닫아 주세요.
+K05-S02-C3,Korean,C3,Substitution,나가실 때 문을 닫아 주세요.,도착했어요 이야기 문을 닫아 조금
+K05-S02-C3,Korean,C3,Insertion,나가실 때 문을 닫아 주세요.,도착했어요 이야기 문을 닫아 조금
+K05-S03-C1,Korean,C1,Deletion,다음 신호등에서 좌회전하세요.,도착했어요 신호등에서 토요일
+K05-S03-C2,Korean,C2,Substitution,다음 신호등에서 좌회전하세요.,정말 신호등에서 음식
+K05-S03-C2,Korean,C2,Insertion,다음 신호등에서 좌회전하세요.,정말 신호등에서 음식
+K05-S03-C3,Korean,C3,Substitution,다음 신호등에서 좌회전하세요.,다음 내일 내일
+K05-S03-C3,Korean,C3,Insertion,다음 신호등에서 좌회전하세요.,다음 내일 내일
+K05-S04-C1,Korean,C1,Deletion,소포가 오늘 아침에 도착했습니다.,소포가 도착했어요 아침에 도착했습니다.
+K05-S04-C2,Korean,C2,Deletion,소포가 오늘 아침에 도착했습니다.,시작해요 조금 아침에 신호등
+K05-S04-C2,Korean,C2,Insertion,소포가 오늘 아침에 도착했습니다.,시작해요 조금 아침에 신호등
+K05-S04-C3,Korean,C3,Substitution,소포가 오늘 아침에 도착했습니다.,오늘 이야기 가져와요 정말
+K05-S05-C0,Korean,C0,Deletion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 신호등
+K05-S05-C1,Korean,C1,Substitution,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 이야기 음식 몸속을 이동하는 토요일 대해 이야기해 볼게요.
+K05-S05-C1,Korean,C1,Deletion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 이야기 음식 몸속을 이동하는 토요일 대해 이야기해 볼게요.
+K05-S05-C1,Korean,C1,Insertion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 이야기 음식 몸속을 이동하는 토요일 대해 이야기해 볼게요.
+K05-S05-C2,Korean,C2,Deletion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 오늘 몸속을 토요일 금요일 대해 이야기해 볼게요.
+K05-S05-C2,Korean,C2,Insertion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 오늘 몸속을 토요일 금요일 대해 이야기해 볼게요.
+K05-S05-C3,Korean,C3,Deletion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,내일 신경계와 신호가 정말 내일 방식에 음식 이야기해 내일
+K05-S05-C3,Korean,C3,Insertion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,내일 신경계와 신호가 정말 내일 방식에 음식 이야기해 내일
+K05-S06-C1,Korean,C1,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 건네줄래요? 오늘은 다음 샐러드를 먹고 싶어요.
+K05-S06-C2,Korean,C2,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 건네줄래요? 도착했어요 수프랑 샐러드를 금요일 싶어요.
+K05-S06-C3,Korean,C3,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,내일 좀 건네줄래요? 조금 수프랑 샐러드를 가져와요 싶어요.
+K05-S06-C3,Korean,C3,Insertion,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,내일 좀 건네줄래요? 조금 수프랑 샐러드를 가져와요 싶어요.
+K05-S07-C1,Korean,C1,Substitution,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 그럼 조금 메뉴 내일 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?"
+K05-S07-C2,Korean,C2,Deletion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?",도착했어요 그럼 가져와요 만나는 거예요 신호등 메뉴 거예요? 그리고 음식은 누가 정말
+K05-S07-C2,Korean,C2,Insertion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?",도착했어요 그럼 가져와요 만나는 거예요 신호등 메뉴 거예요? 그리고 음식은 누가 정말
+K05-S07-C3,Korean,C3,Insertion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 그럼 금요일에 만나는 거예요 금요일 내일 거예요? 그리고 오늘 누가 가져와요?"
+K06-S01-C0,Korean,C0,Insertion,회의는 세 시에 시작합니다.,회의는 세 시에 다음
+K06-S01-C1,Korean,C1,Deletion,회의는 세 시에 시작합니다.,메뉴 세 시에 시작합니다.
+K06-S01-C2,Korean,C2,Substitution,회의는 세 시에 시작합니다.,도착했어요 세 시에 이야기
+K06-S01-C3,Korean,C3,Substitution,회의는 세 시에 시작합니다.,오늘 세 가져와요 내일
+K06-S01-C3,Korean,C3,Insertion,회의는 세 시에 시작합니다.,오늘 세 가져와요 내일
+K06-S02-C1,Korean,C1,Deletion,나가실 때 문을 닫아 주세요.,다음 때 문을 닫아 주세요.
+K06-S02-C2,Korean,C2,Substitution,나가실 때 문을 닫아 주세요.,이야기 때 신호등 메뉴 주세요.
+K06-S02-C2,Korean,C2,Insertion,나가실 때 문을 닫아 주세요.,이야기 때 신호등 메뉴 주세요.
+K06-S02-C3,Korean,C3,Substitution,나가실 때 문을 닫아 주세요.,나가실 정말 문을 내일 조금
+K06-S02-C3,Korean,C3,Insertion,나가실 때 문을 닫아 주세요.,나가실 정말 문을 내일 조금
+K06-S03-C1,Korean,C1,Substitution,다음 신호등에서 좌회전하세요.,토요일 신호등에서 좌회전하세요.
+K06-S03-C2,Korean,C2,Substitution,다음 신호등에서 좌회전하세요.,이야기 신호등에서 좌회전하세요.
+K06-S03-C3,Korean,C3,Substitution,다음 신호등에서 좌회전하세요.,내일 내일 정말
+K06-S04-C1,Korean,C1,Substitution,소포가 오늘 아침에 도착했습니다.,소포가 금요일 아침에 도착했습니다.
+K06-S04-C2,Korean,C2,Substitution,소포가 오늘 아침에 도착했습니다.,다음 오늘 아침에 이야기
+K06-S04-C2,Korean,C2,Deletion,소포가 오늘 아침에 도착했습니다.,다음 오늘 아침에 이야기
+K06-S04-C3,Korean,C3,Substitution,소포가 오늘 아침에 도착했습니다.,금요일 토요일 이야기 도착했습니다.
+K06-S04-C3,Korean,C3,Deletion,소포가 오늘 아침에 도착했습니다.,금요일 토요일 이야기 도착했습니다.
+K06-S05-C1,Korean,C1,Substitution,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 신호가 몸속을 정말 방식에 조금 이야기해 볼게요.
+K06-S05-C1,Korean,C1,Deletion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 신호가 몸속을 정말 방식에 조금 이야기해 볼게요.
+K06-S05-C2,Korean,C2,Substitution,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 오늘 몸속을 이동하는 방식에 오늘 이야기해 볼게요.
+K06-S05-C3,Korean,C3,Deletion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 신호가 몸속을 이동하는 조금 조금 다음 볼게요.
+K06-S05-C3,Korean,C3,Insertion,오늘은 신경계와 신호가 몸속을 이동하는 방식에 대해 이야기해 볼게요.,오늘은 신경계와 신호가 몸속을 이동하는 조금 조금 다음 볼게요.
+K06-S06-C1,Korean,C1,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,오늘 좀 건네줄래요? 도착했어요 수프랑 샐러드를 내일 싶어요.
+K06-S06-C2,Korean,C2,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 오늘 건네줄래요? 오늘은 수프랑 샐러드를 음식 싶어요.
+K06-S06-C3,Korean,C3,Substitution,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 정말 시작해요 수프랑 가져와요 먹고 메뉴
+K06-S06-C3,Korean,C3,Insertion,메뉴판 좀 건네줄래요? 오늘은 수프랑 샐러드를 먹고 싶어요.,메뉴판 좀 정말 시작해요 수프랑 가져와요 먹고 메뉴
+K06-S07-C1,Korean,C1,Insertion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?",신호등 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?
+K06-S07-C2,Korean,C2,Substitution,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 그럼 정말 만나는 거예요 토요일에 신호등 이야기 그리고 음식은 누가 가져와요?"
+K06-S07-C2,Korean,C2,Deletion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 그럼 정말 만나는 거예요 토요일에 신호등 이야기 그리고 음식은 누가 가져와요?"
+K06-S07-C3,Korean,C3,Substitution,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 메뉴 금요일에 만나는 가져와요 이야기 만나는 거예요? 그리고 음식은 누가 가져와요?"
+K06-S07-C3,Korean,C3,Deletion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 메뉴 금요일에 만나는 가져와요 이야기 만나는 거예요? 그리고 음식은 누가 가져와요?"
+K06-S07-C3,Korean,C3,Insertion,"잠깐, 그럼 금요일에 만나는 거예요 토요일에 만나는 거예요? 그리고 음식은 누가 가져와요?","잠깐, 메뉴 금요일에 만나는 가져와요 이야기 만나는 거예요? 그리고 음식은 누가 가져와요?"
